@@ -8,8 +8,7 @@
 
 
 <p align="center">
- <img width="600" src="blob/main/github-user-contribution%20(2).svg
-" alt="snake"/>
+ <img width="600" src="github-user-contribution (2).svg" alt="snake"/>
 </p>
 
 
