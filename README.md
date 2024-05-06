@@ -45,9 +45,10 @@
 
 ### 💻 LeetCode:
 
-![snake gif](https://github.com/EfimovSergei/EfimovSergei/blob/output/github-contribution-grid-snake.svg)
+
 
 ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=EfimovSergei&theme=dark)
+![snake gif](https://github.com/EfimovSergei/EfimovSergei/blob/output/github-contribution-grid-snake.svg)
 
 
 
