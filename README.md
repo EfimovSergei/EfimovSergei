@@ -19,7 +19,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
    <a href="https://mail.ru/efimovsergei" target="_blank">
-    <img src="https://img.razrisyika.ru/kart/95/1200/378230-mayl-ru-20.jpg" width="40" height="40" alt="telegram group" />
+    <img src="https://ros-met.com/wp-content/uploads/2021/04/a33eb32c-6ae8-4208-80b7-7956e1eae8e4.png" width="40" height="40" alt="telegram group" />
     </a>
     
    
