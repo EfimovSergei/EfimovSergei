@@ -7,10 +7,6 @@
 Я начинающий back-end разработчик. Мой путь в IT начался с курса по Java на Stepik! С апреля 2023 года по май 2024 я изучаю back-end разработку на курсе. В настоящий момент я нахожусь в поисках работы!
 
 
-<p align="center">
- <img width="600" src="github-user-contribution (2).svg" alt="snake"/>
-</p>
-
 
 ### 🤝 Контакты:
 
@@ -48,7 +44,6 @@
 
 
 ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=EfimovSergei&theme=dark)
-![snake gif](https://github.com/EfimovSergei/EfimovSergei/blob/output/github-contribution-grid-snake.svg)
 
 
 
